@@ -431,12 +431,12 @@ Este proyecto permitió aplicar conocimientos relacionados con:
 * Incorporar métricas mediante Call Detail Records.
 * Si bien la red simulada incluye servidores dedicados para DNS, HTTP y Email, el alcance principal de este proyecto se centró en la infraestructura VoIP, la segmentación mediante VLANs, DHCP, routing dinámico con OSPF y telefonía IP.
 Como mejora futura, se podrían configurar completamente los servidores restantes para ampliar la funcionalidad de la red corporativa:
-
-- **Servidor DNS:** configurar resolución de nombres para servicios internos, como servidores web y de correo.
-- **Servidor HTTP:** implementar un sitio web corporativo interno o portal de servicios accesible desde todos los departamentos.
-- **Servidor Email:** configurar servicios de correo interno para usuarios de Finance, HR, Sales e ICT.
-- **Integración de servicios:** validar que todos los departamentos puedan acceder a estos servicios mediante nombres DNS en lugar de direcciones IP directas.
-
+  
+  - **Servidor DNS:** configurar resolución de nombres para servicios internos, como servidores web y de correo.
+  - **Servidor HTTP:** implementar un sitio web corporativo interno o portal de servicios accesible desde todos los departamentos.
+  - **Servidor Email:** configurar servicios de correo interno para usuarios de Finance, HR, Sales e ICT.
+  - **Integración de servicios:** validar que todos los departamentos puedan acceder a estos servicios mediante nombres DNS en lugar de direcciones IP directas.
+  
 Esto permitiría que la simulación sea aún más completa y cercana a una red empresarial real, donde conviven servicios de datos, voz y aplicaciones.
 
 ---
