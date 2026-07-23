@@ -450,9 +450,9 @@ No se recomienda utilizar estas configuraciones directamente en un entorno produ
 
 ## Autor
 
-**Tomas Acosta**
+**Tomas Hadi Acosta Aguilera**
 
-Estudiante de Ingeniería Informática.
+Estudiante avanzado de Ingeniería Informática en la Universidad del CEMA (UCEMA).
 
 Intereses principales:
 
